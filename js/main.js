@@ -9,9 +9,6 @@ let betFiftyButton = document.querySelector('#max-bet')
 
 function slotMachineFive(bet) {
     const slotsArray = document.querySelectorAll(".slot")
-    console.log(slotsArray)
-
-    console.log(bet)
 
     let resultMessage = document.querySelector('#result')
 
